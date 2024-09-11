@@ -19,8 +19,4 @@ In this lab, you will:
 - Delete tags locally and remotely.
 - Push tags to a remote repository.
 - Manage tag deletions from both local and remote repositories.
-
-#### Key Commands You'll Learn in Lab 2:
-- **Creating a lightweight tag:**
-   ```bash
-   git tag tagname
+e
