@@ -1,2 +1,2 @@
-![Image description](./devops.jpg)
+![Image description](Lab_Two/devops.png)
 
